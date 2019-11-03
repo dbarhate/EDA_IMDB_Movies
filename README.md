@@ -1,6 +1,6 @@
 It is a personal data science project that analyses movies data from Internet Movie Database (IMDb).
 
-Description
+#Description
 This repository contains IPython Notebook deals with the analysis of the movies data from Internet Movie Database (IMDb).
 
 Introduction
